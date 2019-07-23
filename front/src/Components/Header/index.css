@@ -1,0 +1,28 @@
+.container-header{
+    
+}
+
+.list-navbar{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    align-content: flex-end;
+
+
+
+}
+.item-navbar{
+    margin: 20px 15px;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid grey;
+}
+
+ .item-navbar:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .banner-image{
+    height: 50vh;
+    background-position: center;
+  }
